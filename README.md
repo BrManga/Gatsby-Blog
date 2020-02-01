@@ -7,3 +7,4 @@
 <h1 align="center">
   Gatsby's Blog Page
 </h1>
+<h3 align="center">https://quizzical-carson-ef15ac.netlify.com/</h3>
